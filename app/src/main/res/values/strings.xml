@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CourseProject</string>
+    <string name="txtTitle">Bill Splitter</string>
+    <string name="txtBillName">Enter the bill name:</string>
+    <string name="txtBillAmt">Enter the bill amount:</string>
+    <string name="txtNumber">Enter number of splits:</string>
+    <string name="btnCalculate">CALCULATE!</string>
+    <string name="txtTitle2">Total per person:</string>
+    <string name="txtResult">Amount here</string>
+    <string name="txtTip">Desired Tip:</string>
+    <string name="btn15">15%</string>
+    <string name="btn20">20%</string>
+    <string name="btn25">25%</string>
+    <string name="txtTipResult">Amount</string>
+</resources>
